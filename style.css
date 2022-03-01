@@ -65,6 +65,10 @@ section {
 section>img {
     width: 100%;
 }
+.three {
+    display: inline-block;
+    width: 28%;
+}
 #laptop {
     width: 99%;
     margin: auto;
