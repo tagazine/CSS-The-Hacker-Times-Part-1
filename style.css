@@ -75,10 +75,10 @@ section>img {
     padding-left: 4px;
 }
 footer {
-    /* position: relative;
-    top: .75em;
-    left: 45em; */
     width: 700px;
     margin: auto;
     padding-left: 16em;
+}
+footer>p {
+    padding-left: 7em;
 }
