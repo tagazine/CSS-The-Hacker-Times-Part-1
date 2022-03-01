@@ -26,6 +26,9 @@ h5 {
     padding: 20px;
 }
 nav {
+    position: sticky;
+    background-color: white;
+    top: 0;
     border-top: 1px solid lightgray;
     border-bottom: 1px solid lightgray;
 }
