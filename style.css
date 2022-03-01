@@ -74,3 +74,8 @@ section>img {
     margin: auto;
     padding-left: 4px;
 }
+footer {
+    position: relative;
+    top: .75em;
+    left: 45em;
+}
